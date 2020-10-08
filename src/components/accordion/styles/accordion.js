@@ -35,7 +35,7 @@ export const Title = styled.h1`
 export const Item = styled.div`
   color: white;
   margin-bottom: 8px;
-  max-width: 670px;
+  max-width: 800px;
   width: 100%;
   &:first-of-type {
     margin-top: 3em;
